@@ -8,7 +8,7 @@
     <groupId>com.sansa</groupId>
     <artifactId>gitflow-maven</artifactId>
     <packaging>war</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <properties>
         <jdk.version>1.7</jdk.version>
         <jgitflow-maven-plugin.version>1.0-m2</jgitflow-maven-plugin.version>
